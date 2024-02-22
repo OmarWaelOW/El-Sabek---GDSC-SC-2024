@@ -1,6 +1,6 @@
 # Machine-learned patterns in economic development
 
-This repository contains the code and instructions for reproducing the results of the paper "Machine-learned patterns suggest that diversification drives economic development" by Charles D. Brummitt, Andrés Gómez-Liévano, Ricardo Hausmann, and Matthew H. Bonds.
+This repository contains the code and instructions for reproducing the results of the paper "El Sabek" by Omar.W.Sabek.
 
 ## Reproducing the results
 
@@ -16,7 +16,7 @@ The results of this paper were generated mostly with Python 3.5.3 and, in a few 
 Clone this repository to your local machine. For the bulk of the results, create a virtual environment using your favorite tool for Python (e.g., `virtualenv` or Anaconda), and then install the requirements in `requirements.txt`. For example, with Anaconda:
 
 	# Clone the repo:
-	git clone https://github.com/cbrummitt/machine_learned_patterns_in_economic_development.git
+	git clone https://github.com/cbrummitt/El_Sabek.git
 
 	# Create a virtual environment:
 	conda create --name id_pat_econ_dev python=3.5.3
