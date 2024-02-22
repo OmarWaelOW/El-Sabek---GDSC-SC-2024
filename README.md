@@ -1,6 +1,8 @@
 # Machine-learned patterns in economic development
 
-This repository contains the code and instructions for reproducing the results of the paper "El Sabek" by Omar.W.Sabek.
+This repository contains the code and instructions for reproducing the results of the paper "Machine-learned patterns suggest that diversification drives economic development" by Charles D. Brummitt, Andrés Gómez-Liévano, Ricardo Hausmann, and Matthew H. Bonds.
+
+.
 
 ## Reproducing the results
 
